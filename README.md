@@ -5,19 +5,16 @@
 > Área retângulo: 20.0 cm
 > Área trapézio: 187.5 cm
 > Área triângulo: 45.5 cm
->
 > Cálculo de perímetro das figuras:
 > Perímetro círculo: 25.12 cm
 > Perímetro retângulo: 24.0 cm
 > Perímetro trapézio: 57.0 cm
 > Perímetro triângulo: 23.0 cm
-> 
 > Desenhado figuras:
 > Desenhando um circulo.
 > Desenhando um retângulo.
 > Desenhando um trapézio.
 > Desenhando um triângulo.
-> 
 > Maximizado figuras:
 > Círculo maximizado em cm: Círculo {raio=8.0}
 > Retângulo maximizado em cm: Retângulo {base=20.0, altura=4.0}
